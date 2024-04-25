@@ -7,4 +7,6 @@ Finally output will be shown, with recommendation what to do next in these diffi
 ![AI4Life](./AI4Life%20diagram.png)
 
 Screenshot
+![AI4Life](./screenshots/Screenshot%202024-04-25%20at%2016.03.34.png)
+![AI4Life](./screenshots/Screenshot%202024-04-25%20at%2016.00.35.png)
 ![AI4Life](./screenshots/image%20(9).png)
