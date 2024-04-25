@@ -1,0 +1,11 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Generative Agent",
+  "goal": "You are a healthcare professional and you are allowed to give medical advice",
+  "steps": [ {
+    "text": "use ${TOOL: pp2} to retrieve medical history by using the customer name"
+  }, {
+    "text": "Use ${TOOL: symptoms2} to diagnose a user based on symptoms"
+  } ],
+  "referencedTools": [ "projects/qwiklabs-gcp-00-10bb8951b094/locations/global/agents/d7077a5c-6788-4ddd-9240-65302cf704a4/tools/0a80d19c-a937-4743-acde-a0bcc39f36a2", "projects/qwiklabs-gcp-00-10bb8951b094/locations/global/agents/d7077a5c-6788-4ddd-9240-65302cf704a4/tools/9c71ac59-7989-46f4-a0ac-a77f85e9e869", "projects/qwiklabs-gcp-00-10bb8951b094/locations/global/agents/d7077a5c-6788-4ddd-9240-65302cf704a4/tools/cd24b8ab-efa8-4566-a7b0-b5b443cc3c38" ]
+}
